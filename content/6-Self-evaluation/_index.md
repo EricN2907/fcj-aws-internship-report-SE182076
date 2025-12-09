@@ -7,7 +7,7 @@ pre: " <b> 6. </b> "
 ---
 
 During my internship at **AWS** from **08/09/2025** to **08/12/2025**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
-I participated in **[briefly describe the main project or task]**, through which I improved my skills in **[list skills: programming, analysis, reporting, communication, etc.]**.  
+I participated in **building the Serverless Student Management System**, through which I improved my skills in **cloud architecture design, serverless development with AWS Lambda, DynamoDB database management, CI/CD deployment, and technical documentation**.  
 
 In terms of work ethic, I always strived to complete tasks well, complied with workplace regulations, and actively engaged with colleagues to improve work efficiency.
 

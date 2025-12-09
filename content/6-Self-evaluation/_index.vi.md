@@ -7,7 +7,7 @@ pre: " <b> 6. </b> "
 ---
 
 Trong suốt thời gian thực tập tại **AWS** từ **08/09/2025** đến **08/12/2025**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.  
-Tôi đã tham gia **[mô tả ngắn gọn dự án hoặc công việc chính]**, qua đó cải thiện kỹ năng **[liệt kê kỹ năng: lập trình, phân tích, viết báo cáo, giao tiếp…]**.  
+Tôi đã tham gia **xây dựng hệ thống quản lý sinh viên Serverless (Serverless Student Management System)**, qua đó cải thiện kỹ năng **thiết kế kiến trúc cloud, lập trình serverless với AWS Lambda, quản lý cơ sở dữ liệu DynamoDB, triển khai CI/CD, và viết tài liệu kỹ thuật**.  
 
 Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ, tuân thủ nội quy, và tích cực trao đổi với đồng nghiệp để nâng cao hiệu quả công việc.
 
